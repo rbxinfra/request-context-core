@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <Description>Shared library providing structured information passed from API Sites to Services</Description>
+    
+        <Version>1.2.4</Version>
+    </PropertyGroup>
+</Project>
+  
